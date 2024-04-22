@@ -1,0 +1,190 @@
+@media(min-width: 992px) and (max-width:1200px){
+  .navbg{
+    width:975px !important;
+  }
+  .let-img{
+    width:100%;
+    height:100%;
+  }
+  .let-link-1{
+    max-width:45%;
+    font-size:20px;
+    padding:10px;
+    text-align:center;
+  }
+  .img-src{
+    width:100%;
+    height:100%;
+  }
+} 
+/*min 768 max-992*/
+@media(min-width: 768px) and (max-width:991.5px){
+  .navbg{
+    width:700px !important;
+  }
+  .ul-con-div{
+    margin-left:13rem;
+  }
+  .ex-col-2{
+   margin-left:10rem; 
+  }
+  .ex-copy{
+    padding-top:1rem;
+    margin-left:4rem;
+  }
+}
+/*min 540 max-767*/
+  @media(min-width: 540px) and (max-width:767.5px){
+    .navbg{
+      width:500px !important;
+    }
+    .ul-con-div{
+      margin-left:8rem;
+    }
+    .about-full{
+      margin-bottom:1.5rem;
+      text-align:center;
+    }
+    .full-content{
+      text-align:center;
+    }
+    .full-button{
+      margin:auto;
+    }
+    .right-contact-div-2{
+      margin-top:1.5rem;
+      margin-bottom:1.5rem;
+    }
+    .btn-fill-4{
+      margin-top:20px;
+    }
+    .row-image{
+      margin-bottom:20px;
+    }
+    .banner-heading{
+      font-size:60px;
+    }
+    .ex-col-2{
+      margin-left:4rem; 
+     }
+     .ex-copy{
+      padding-top:1rem;
+    }
+} 
+/*min 320 max-540*/
+@media(min-width: 320px)and (max-width:540px){
+  .navbg{
+    width:350px !important;
+  }
+  .about-banner-heading{
+    font-size:50px;
+  }
+  .fill-image{
+    width:250px;
+    height:300px;
+  }
+  .ul-con-div{
+    margin-left:0rem;
+  } 
+  .about-full{
+    margin-bottom:1.5rem;
+    text-align:center;
+  }
+  .full-content{
+    text-align:center;
+  }
+  .full-button{
+    margin:auto;
+  }
+  .right-contact-div-2{
+    margin-top:1.5rem;
+    margin-bottom:1.5rem;
+  }
+  .btn-fill-4{
+    margin-top:20px;
+  }
+  .row-image{
+    margin-bottom:20px;
+  }
+  .banner-heading{
+    font-size:45px;
+  }
+   .x-image{
+    width:300px;
+    height:350px;
+    margin:auto;
+   }
+   .news-letter-box{
+    margin-left:0px;
+    margin-bottom:20px;
+   }
+   .ex-copy{
+    padding-top:1rem;
+  }
+  .banner-button1{
+    margin-bottom:1rem;
+  }
+  .full-about-image1{
+    margin-bottom:1rem;
+  }
+  .img-src{
+    width:100%;
+    height:100%;
+  }
+  .let-link-1{
+    max-width:45%;
+    font-size:20px;
+    padding:10px;
+    text-align:center;
+  }
+}
+/*min 320 max-992*/
+@media(min-width: 320px)and (max-width:992px){
+  .contact-detail{
+    margin-bottom:2rem;
+  }
+  .contact-bg{
+    text-align:center;
+  }
+  .contact-pg{
+    margin:auto;
+  }
+  .contact-col-1{
+    margin-bottom:2rem;
+  }
+  .contact-col-2{
+    margin-bottom:2rem;
+  }
+  .contact-col-3{
+    margin-bottom:2rem;
+  }
+  .contact-row-icon{
+    margin-top:30px;
+  }
+  .con-img-div{
+    margin-top:30px;
+  }
+  .kester-logo{
+    margin-bottom:30px;
+  }
+  .player-list-col{
+    margin-top:2rem;
+  }
+  .logo-content{
+    text-align:center;
+  }
+  .img-style{
+    width:100%;
+    height:100%;
+    padding-top:2rem;
+  }
+  .let-img{
+    width:100%;
+    height:100%;
+    padding-top:2rem;   
+}
+.full-about-image1{
+  text-align:center;
+}
+}
+                    
